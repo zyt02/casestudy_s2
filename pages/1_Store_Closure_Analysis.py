@@ -120,7 +120,7 @@ with tab1:
                 <ul style="margin-bottom:0;">
                     <li>Lack of omni-channel capabilities (i.e. in-store pickup, same-day delivery) </li>
                     <li>Lack Next Gen or flagship features</li>
-                    <li>Limited service offering (i.e. ballon delivery, hellium)</li>
+                    <li>Limited service offering (i.e. ballon delivery)</li>
                     <li>Low competitive positioning</li>
                 </ul>
             </div>
